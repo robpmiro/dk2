@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Contenido | DIGITAL KAIZEN</title>
-	<atom:link href="/recursos/articulos/blog-seo/contenido/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://robpmiro.github.io/dk2/recursos/articulos/blog-seo/contenido/feed/" rel="self" type="application/rss+xml" />
+	<link>https://robpmiro.github.io/dk2/</link>
 	<description>Marketing Digital</description>
 	<lastBuildDate>Sun, 03 Nov 2019 18:03:59 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,31 +21,31 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/06/cropped-japan-32x32.png</url>
+	<url>https://robpmiro.github.io/dk2/wp-content/uploads/2020/06/cropped-japan-32x32.png</url>
 	<title>Contenido | DIGITAL KAIZEN</title>
-	<link>/</link>
+	<link>https://robpmiro.github.io/dk2/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>3 + 1 herramientas gratuitas que te darán ideas para tu blog</title>
-		<link>/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/</link>
-					<comments>/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/#respond</comments>
+		<link>https://robpmiro.github.io/dk2/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/</link>
+					<comments>https://robpmiro.github.io/dk2/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/#respond</comments>
 		
 		<dc:creator><![CDATA[Roberto P. Miró]]></dc:creator>
 		<pubDate>Sun, 03 Nov 2019 17:31:02 +0000</pubDate>
 				<category><![CDATA[Contenido]]></category>
 		<category><![CDATA[SEO blog]]></category>
-		<guid isPermaLink="false">/?p=375</guid>
+		<guid isPermaLink="false">https://robpmiro.github.io/dk2/?p=375</guid>
 
 					<description><![CDATA[<p>Viernes por la mañana, hay que planificar los contenidos del blog, pero parece que todo lo interesante ya se ha escrito. Descubre las herramientas GRATUITAS que pueden desbloquearte. FATJOE La primera que hemos probado es el generador de titulos de fatjoe. Esta como todas las herramientas que hemos encontrado están en ingles. Hemos metido el &#8230;</p>
-<p class="read-more"> <a class="" href="/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/"> <span class="screen-reader-text">3 + 1 herramientas gratuitas que te darán ideas para tu blog</span> Leer más &#187;</a></p>
-La entrada <a href="/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/">3 + 1 herramientas gratuitas que te darán ideas para tu blog</a> apareció primero en <a href="/">DIGITAL  KAIZEN</a>.]]></description>
+<p class="read-more"> <a class="" href="https://robpmiro.github.io/dk2/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/"> <span class="screen-reader-text">3 + 1 herramientas gratuitas que te darán ideas para tu blog</span> Leer más &#187;</a></p>
+La entrada <a href="https://robpmiro.github.io/dk2/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/">3 + 1 herramientas gratuitas que te darán ideas para tu blog</a> apareció primero en <a href="https://robpmiro.github.io/dk2/">DIGITAL  KAIZEN</a>.]]></description>
 		
-					<wfw:commentRss>/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/feed/</wfw:commentRss>
+					<wfw:commentRss>https://robpmiro.github.io/dk2/articulos/blog-seo/3-herramientas-gratuitas-ideas-blog/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="/wp-content/uploads/2019/09/20190906_144831.webm" length="940394" type="video/webm" />
+		<enclosure url="https://robpmiro.github.io/dk2/wp-content/uploads/2019/09/20190906_144831.webm" length="940394" type="video/webm" />
 
 			</item>
 	</channel>

@@ -34,19 +34,19 @@
 }
 
 .wpsl_locked_widget ul li a.facebook_like{
-	background-image: url('/wp-content/plugins/capture-and-convert/assets/images/like.png');
+	background-image: url('https://robpmiro.github.io/dk2/wp-content/plugins/capture-and-convert/assets/images/like.png');
 }
 
 .wpsl_locked_widget ul li a.twitter_tweet{
-	background-image: url('/wp-content/plugins/capture-and-convert/assets/images/tweet.png');
+	background-image: url('https://robpmiro.github.io/dk2/wp-content/plugins/capture-and-convert/assets/images/tweet.png');
 }
 
 .wpsl_locked_widget ul li a.facebook_share{
-	background-image: url('/wp-content/plugins/capture-and-convert/assets/images/share.png');
+	background-image: url('https://robpmiro.github.io/dk2/wp-content/plugins/capture-and-convert/assets/images/share.png');
 }
 
 .wpsl_locked_widget ul li a.youtube_subscribe{
-	background-image: url('/wp-content/plugins/capture-and-convert/assets/images/subscribe.png');
+	background-image: url('https://robpmiro.github.io/dk2/wp-content/plugins/capture-and-convert/assets/images/subscribe.png');
 }
 
 .wpsl_unlock_form .wpsl_text_input{
@@ -369,6 +369,6 @@ body .wpslcnc_loading_gif{
 	position: absolute;
 	width: 16px;
 	height: 16px;
-	background-image: url('/wp-content/plugins/capture-and-convert/assets/images/loading.gif');
+	background-image: url('https://robpmiro.github.io/dk2/wp-content/plugins/capture-and-convert/assets/images/loading.gif');
 	background-size: 100%;
 }
