@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Myself Demo were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = https://digitalkaizen.es
+Data file = /home/recetas1/digitalkaizen.es/wp-content/uploads/2019/07/demo-content-import-file_2019-07-30__13-29-44.xml
+Widget file = /home/recetas1/digitalkaizen.es/wp-content/uploads/2019/07/demo-widgets-import-file_2019-07-30__13-29-44.json
+Customizer file = /home/recetas1/digitalkaizen.es/wp-content/uploads/2019/07/demo-customizer-import-file_2019-07-30__13-29-44.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Texto - No Title - Imported
+
+Footer Widget 2 : 
+
+Menú de navegación - Learn More - Imported
+
+Footer Widget 3 : 
+
+Menú de navegación - About Me - Imported
+
+Footer Widget 4 : 
+
+Menú de navegación - Support - Imported
+
+Footer Widget 5 : 
+
+Texto - Contact - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
